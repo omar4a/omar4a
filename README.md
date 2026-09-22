@@ -1,31 +1,32 @@
-# Omar AbdAlAal 🧠
+# Hi, I'm Omar 👋
 
-**Computer Engineer | Brain-Computer Interface Researcher | NeuroTech Builder**
+**Software engineer (B.Sc. Computer Engineering, Ain Shams University, 2026).** I build systems that process heavy, messy, real-time data: streaming backends, distributed pipelines, embedded firmware and ML, most often for brain signals (EEG/BCI).
 
-Building real-time EEG systems that decode the human brain — from raw neural signals to intelligent applications.
+Before engineering school I spent four years working remotely for US clients in marketing and scriptwriting, so I'm used to async work, writing things down and shipping on deadline.
 
-## 🔬 What I Work On
-- **EEG Signal Processing & BCI Pipelines** — Real-time acquisition, filtering, artifact rejection, and classification using g.tec Unicorn Hybrid Black
-- **Deep Learning for Neural Data** — TSception, EEGNet, transfer learning on SEED/DEAP/PhysioNet datasets  
-- **End-to-End BCI Applications** — P300 spellers, SSVEP navigation, Motor Imagery orthosis control
-- **Clinical Neuroinformatics** — iEEG seizure prediction backends, BIDS-compliant data pipelines
+## Selected work
 
-## 🏗️ Featured Projects
-| Project | Description |
-|---------|-------------|
-| [eeg-emotion-recognition](https://github.com/omar4a/eeg-emotion-recognition) | Real-time EEG emotion recognition with g.tec Unicorn, TSception, and Flutter app |
-| [p300-bci-speller](https://github.com/omar4a/SpellerP300) | Real-time P300 BCI Speller with PsychoPy and live EEG classification |
-| [ieeg_backend](https://github.com/omar4a/ieeg_backend) | Clinical iEEG seizure prediction backend — 256-channel, lazy-loaded EDF processing |
-| [NeuroTechASU](https://github.com/omar4a/NeuroTechASU) | First NeuroTechX chapter in Africa/MENA — MI, SSVEP, P300 projects |
+| Project | What it shows |
+|---|---|
+| [**ieeg_backend**](https://github.com/omar4a/ieeg_backend) | Plugin-based Python backend that streams a **1.2 GB, 172-channel** recording in **~150 MB RAM**. ABC contracts, adapter pattern, **100% test coverage** on the core. |
+| [**distributed_systems**](https://github.com/omar4a/distributed_systems) | Distributed crawler + search engine on **AWS SQS/S3**. Hot-standby master with heartbeat failover, horizontally scalable workers. |
+| [**python-dhcp-server**](https://github.com/omar4a/python-dhcp-server) | DHCP server from scratch (RFC 2131/2132) with Scapy. Full message set, thread pool, **20+ req/s**. |
+| [**p300-bci-speller**](https://github.com/omar4a/p300-bci-speller) | Real-time brain-typing: LSL streaming, xDAWN + LDA, Bayesian dynamic stopping, **LLM word completion** confirmed by SSVEP. |
+| [**eeg-emotion-recognition**](https://github.com/omar4a/eeg-emotion-recognition) | Graduation project (grade A): EEG acquisition bridge → PyTorch TSception → Flutter app ([**mindmetric-eeg-app**](https://github.com/omar4a/mindmetric-eeg-app)). |
+| [**DEAP**](https://github.com/omar4a/DEAP) | Replicated a paper claiming 88–89% and showed that honest, subject-aware CV gives ~70%. Includes a leakage analysis. |
+| [**RTOS**](https://github.com/omar4a/RTOS) | FreeRTOS vehicle-safety firmware on ARM Cortex-M4: 5 tasks, queues, mutex, ISR → task handoff. |
 
-## 🛠️ Tech Stack
-`Python` `PyTorch` `MNE-Python` `SciPy` `scikit-learn` `BrainFlow` `PsychoPy` `C/C++` `Flutter` `FreeRTOS` `AWS`
+## Stack
+**Languages:** Python · C · C++ · Dart · JavaScript/Node.js · SQL
+**Backend & infra:** AWS (SQS, S3) · Firebase · Express · MongoDB · WebSockets · Linux · Git
+**ML & signals:** PyTorch · scikit-learn · Optuna · MNE · pyRiemann · SciPy · BrainFlow · LSL
+**Embedded:** FreeRTOS · ARM Cortex-M4 (TM4C123) · register-level drivers · Keil / IAR
+**Testing:** pytest (+ coverage) · Flutter widget/integration tests
 
-## 🏆 Highlights
-- 🧠 **Founder & President**, NeuroTech Ain Shams University — First in Africa & MENA
-- 🏅 **National Brain Bee Champion** (Egypt) — International Brain Bee Finalist (Copenhagen)
-- 🎓 **B.Sc. Computer Engineering**, Ain Shams University (Capstone Grade: A, 4.0/4.0)
-- 📜 **McKinsey Forward** graduate | **Future Neuro Founders** (PsyMed × KdT Ventures)
+## Also
+- 🧠 Founder & President of **NeuroTech ASU**, the first NeuroTechX chapter in Africa & MENA (50+ members). Led 4 teams at the g.tec BR41N.IO hackathon.
+- 🏅 National **Brain Bee** Champion (Egypt), International Brain Bee finalist.
+- 🌍 Arabic (native) · English (fluent) · French (basic)
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdalaal-3b7150216/) · [omar.m.abdalaal@gmail.com](mailto:omar.m.abdalaal@gmail.com)
+## Contact
+[LinkedIn](https://www.linkedin.com/in/omar-abdalaal-3b7150216/) · [omar.m.abdalaal@gmail.com](mailto:omar.m.abdalaal@gmail.com) · Cairo, Egypt (remote)
