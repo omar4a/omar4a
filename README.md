@@ -20,11 +20,11 @@ Before engineering school I spent four years working remotely for US clients in 
 <p align="center"><img src="https://raw.githubusercontent.com/omar4a/mindmetric-eeg-app/main/docs/screenshots/strip.png" width="720" alt="MindMetric app"></p>
 
 ## Stack
-**Languages:** Python · C · C++ · Dart · JavaScript/Node.js · SQL
-**Backend & infra:** AWS (SQS, S3) · Firebase · Express · MongoDB · WebSockets · Linux · Git
-**ML & signals:** PyTorch · scikit-learn · Optuna · MNE · pyRiemann · SciPy · BrainFlow · LSL
-**Embedded:** FreeRTOS · ARM Cortex-M4 (TM4C123) · register-level drivers · Keil / IAR
-**Testing:** pytest (+ coverage) · Flutter widget/integration tests
+- **Languages:** Python · C · C++ · Dart · JavaScript/Node.js · SQL
+- **Backend & infra:** AWS (SQS, S3) · Firebase · Express · MongoDB · WebSockets · Linux · Git
+- **ML & signals:** PyTorch · scikit-learn · Optuna · MNE · pyRiemann · SciPy · BrainFlow · LSL
+- **Embedded:** FreeRTOS · ARM Cortex-M4 (TM4C123) · register-level drivers · Keil / IAR
+- **Testing:** pytest (+ coverage) · Flutter widget/integration tests
 
 ## Also
 - 🧠 Founder & President of **NeuroTech ASU**, the first NeuroTechX chapter in Africa & MENA (50+ members). Led 4 teams at the g.tec BR41N.IO hackathon.
