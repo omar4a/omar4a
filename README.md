@@ -2,8 +2,6 @@
 
 **Software engineer (B.Sc. Computer Engineering, Ain Shams University, 2026).** I build systems that process heavy, messy, real-time data: streaming backends, distributed pipelines, embedded firmware and ML, most often for brain signals (EEG/BCI).
 
-Before engineering school I spent four years working remotely for US clients in marketing and writing, so I'm used to async work and shipping on deadline.
-
 ## Selected work
 
 | Project | What it shows |
