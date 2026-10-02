@@ -1,4 +1,4 @@
-# Hi, I'm Omar 👋
+# Omar
 
 **Software engineer (B.Sc. Computer Engineering, Ain Shams University, 2026).** I build systems that process heavy, messy, real-time data: streaming backends, distributed pipelines, embedded firmware and ML, most often for brain signals (EEG/BCI).
 
